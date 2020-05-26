@@ -1,0 +1,9 @@
+drop table Historia_ND
+drop table nahradny_diel
+drop table oprava_praca
+drop table praca
+drop table oprava
+drop table objednavka
+drop table zakaznik
+drop table zamestnanec
+drop table motocykel
